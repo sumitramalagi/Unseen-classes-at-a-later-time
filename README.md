@@ -1,6 +1,6 @@
 
 # Unseen Classes at a Later Time? No Problem [[arXiv](https://arxiv.org/abs/2203.16517) ]
-
+### Accepted at CVPR 2022
 
 <p align="center" width="100%">
 <img src="https://github.com/sumitramalagi/Unseen-classes-at-a-later-time/blob/main/settings.png" width="600"/>
@@ -8,7 +8,7 @@
 
 
 <p align="center" width="80%">
-The figure shows how our newly formulated online CGZSL setting relates to exsiting GZSL/CGZSL settings.
+The figure shows how our newly formulated online CGZSL setting relates to exsiting settings.
 </p>
 
 #### Abstract
