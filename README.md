@@ -1,6 +1,15 @@
 
-# Unseen Classes at a Later Time? No Problem 
+# Unseen Classes at a Later Time? No Problem [[arXiv](https://arxiv.org/abs/2203.16517) ]
 
+
+<p align="center" width="100%">
+<img src="https://github.com/sumitramalagi/Unseen-classes-at-a-later-time/blob/main/settings.png" width="600"/>
+</p>
+
+
+<p align="center" width="80%">
+The figure shows how our newly formulated online CGZSL setting relates to exsiting GZSL/CGZSL settings.
+</p>
 #### Abstract
 Recent progress towards learning from limited supervision has encouraged efforts towards designing models that can recognize novel classes at test time (generalized zero-shot learning or GZSL). GZSL approaches assume knowledge of all classes, with or without labeled data, beforehand. However, practical scenarios demand models that are adaptable and can handle dynamic addition of new seen and unseen classes on the fly (i.e continual generalized zero-shot learning or CGZSL). One solution is to sequentially retrain and reuse conventional GZSL methods, however, such an approach suffers from catastrophic forgetting leading to suboptimal generalization performance.
 A few recent efforts towards tackling CGZSL have been limited by difference in settings, practicality, data splits and protocols followed -- inhibiting fair comparison and a clear direction forward. 
