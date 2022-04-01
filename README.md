@@ -20,7 +20,7 @@ Motivated from these observations, in this work, we firstly consolidate the diff
 Training from scratch and testing:
 python main.py
 
-For testing download the pretrained weights from [[here](https://drive.google.com/drive/folders/1J71AENuBbAhMI-GJD1umLrqb10fJFcli?usp=sharing)] :
+Download the pretrained weights from [[here](https://drive.google.com/drive/folders/1J71AENuBbAhMI-GJD1umLrqb10fJFcli?usp=sharing)] :
 python eval.py
 
 Please download the preprocessed ZSL datasets from publicly available repository.
