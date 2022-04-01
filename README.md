@@ -25,10 +25,10 @@ scipy: 1.6.2 \
 numpy: 1.20.1 \
 CUDA Version: 11.2 
 
-#### Training from scratch and testing:
+Training from scratch and testing:
 python main.py
 
-#### For testing download the pretrained weights from [[here](https://drive.google.com/drive/folders/1J71AENuBbAhMI-GJD1umLrqb10fJFcli?usp=sharing)]
+For testing download the pretrained weights from [[here](https://drive.google.com/drive/folders/1J71AENuBbAhMI-GJD1umLrqb10fJFcli?usp=sharing)]
 python eval.py
 
 Please download the preprocessed ZSL datasets from publicly available repository.
