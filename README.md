@@ -17,14 +17,6 @@ Recent progress towards learning from limited supervision has encouraged efforts
 A few recent efforts towards tackling CGZSL have been limited by difference in settings, practicality, data splits and protocols followed -- inhibiting fair comparison and a clear direction forward. 
 Motivated from these observations, in this work, we firstly consolidate the different CGZSL setting variants and propose a new Online-CGZSL setting which is more practical and flexible. Secondly, we introduce a unified feature-generative framework for CGZSL that leverages bi-directional incremental alignment to dynamically adapt to addition of new classes, with or without labeled data, that arrive over time in any of these CGZSL settings. Our comprehensive experiments and analysis on five benchmark datasets and comparison with baselines show that our approach consistently outperforms existing methods, especially on the more practical Online setting. 
 
-Requirements: \
-Python: 3.8.8 \
-PyTorch: 1.4.0 \
-sklearn: 0.24.1 \
-scipy: 1.6.2 \
-numpy: 1.20.1 \
-CUDA Version: 11.2 
-
 Training from scratch and testing:
 python main.py
 
