@@ -3,7 +3,7 @@
 ### Accepted at CVPR 2022
 
 <p align="center" width="100%">
-<img src="https://github.com/sumitramalagi/Unseen-classes-at-a-later-time/blob/main/settings.png" width="600"/>
+<img src="https://github.com/sumitramalagi/Unseen-classes-at-a-later-time/blob/main/settings.png" width="800"/>
 </p>
 
 
